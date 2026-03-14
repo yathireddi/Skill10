@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Rahul Sharma", "email": "rahul@gmail.com", "phone": "9876543210" },
+  { "id": 2, "name": "Priya Verma", "email": "priya@gmail.com", "phone": "9876543211" },
+  { "id": 3, "name": "Arjun Reddy", "email": "arjun@gmail.com", "phone": "9876543212" },
+  { "id": 4, "name": "Sneha Gupta", "email": "sneha@gmail.com", "phone": "9876543213" },
+  { "id": 5, "name": "Kiran Kumar", "email": "kiran@gmail.com", "phone": "9876543214" }
+]
